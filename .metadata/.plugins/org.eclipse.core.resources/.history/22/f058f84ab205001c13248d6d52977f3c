@@ -1,0 +1,14 @@
+package ptithcm.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.portlet.bind.annotation.RenderMapping;
+
+@Controller
+public class WelcomeController {
+
+	@RenderMapping("welcome") 
+	public String chaoMung() {
+		
+		return "welcome";
+	}
+}

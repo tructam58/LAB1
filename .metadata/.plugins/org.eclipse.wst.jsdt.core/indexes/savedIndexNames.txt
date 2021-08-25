@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\NAM4\LT WEB\BT VE NHA\LAB1\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3613093213.index
+4293051166.index
+2442193721.index
+2602730177.index
+2263913064.index
+1723380452.index
+1734948604.index
